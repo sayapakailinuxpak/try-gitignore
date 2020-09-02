@@ -1,0 +1,16 @@
+{
+	"_id": ObjectID,
+	"first_name": String,
+	"last_name": String,
+	"email": String
+	"address": [
+		{
+			"type": String,
+			"line1": String,
+			"line2": String,
+			"suite_no": String,
+			"building": String
+		}
+
+	]
+}

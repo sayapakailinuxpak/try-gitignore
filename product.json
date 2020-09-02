@@ -1,0 +1,6 @@
+{
+	"_id": ObjectID,
+	"name": String,
+	"description": String,
+	"price": Double
+}

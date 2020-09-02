@@ -1,0 +1,15 @@
+{
+	"_id": ObjectID,
+	"reference_number": String,
+	"total": Double,
+	"userId": ObjectID,
+	"items": [
+		{
+			"productId": ObjectID,
+			"name": String,
+			"description": String,
+			"price": Double
+		}
+	]
+
+}
